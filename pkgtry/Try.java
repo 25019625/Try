@@ -6,7 +6,7 @@ package pkgtry;
 
 /**
  *
- * @author admin
+ * @author 25019625
  */
 public class Try {
 
